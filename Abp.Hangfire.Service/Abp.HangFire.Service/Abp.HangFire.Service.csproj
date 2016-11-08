@@ -160,7 +160,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AbpHangFireService.cs" />
-    <Compile Include="AbpHangFireNotification.cs" />
+    <Compile Include="HangFireRealTimeNotifier.cs" />
     <Compile Include="HangfireService.cs">
       <SubType>Component</SubType>
     </Compile>
